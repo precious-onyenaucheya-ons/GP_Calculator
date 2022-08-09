@@ -1,2 +1,2 @@
-# week-1-task-precious-onyenaucheya
-week-1-task-precious-onyenaucheya created by GitHub Classroom
+# GP_Calculator
+A console application that models a Grade Point Average (GPA) calculator that grades the score dynamically and prints the result. 
